@@ -36,7 +36,7 @@ Se ti senti sicuro puoi giocarti tutto e tentare di indovinare **l'intera parola
 | | |
 |---|---|
 | 📖 | Dizionario italiano con migliaia di parole |
-| 🧍 | Omino che si completa errore dopo errore |
+| 🧍 | Omino che si decompone errore dopo errore |
 | 🔊 | Effetti sonori per errori e vittoria |
 | 🏆 | Punteggio persistente tra una partita e l'altra |
 | 🔄 | Nuova partita con un solo click |
